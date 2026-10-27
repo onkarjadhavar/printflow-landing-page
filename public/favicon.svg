@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#1e3a8a"/>
+  <!-- Printer icon -->
+  <path d="M9 13V8C9 7.44772 9.44772 7 10 7H22C22.5523 7 23 7.44772 23 8V13" stroke="#93c5fd" stroke-width="2" stroke-linecap="round"/>
+  <rect x="7" y="13" width="18" height="9" rx="2" fill="#2563eb"/>
+  <circle cx="21" cy="16" r="1" fill="#60a5fa"/>
+  <path d="M10 18H22V24C22 24.5523 21.5523 25 21 25H11C10.4477 25 10 24.5523 10 24V18Z" fill="#ffffff"/>
+  <path d="M13 21H19" stroke="#1e3a8a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
